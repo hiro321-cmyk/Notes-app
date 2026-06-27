@@ -7,11 +7,11 @@ Note-app is really helpful to save the instant notes and remainder things it let
 its for those people who want to write the things that they might forget or for the people who prefered writing something like in a note-diary.
 
 #Screenshots
-![Home page](Screenshot(143).png)
+![Home page](image1.jpg)
 
-![Note section](Screenshot(144).png)
+![Note section](image2.jpg)
 
-![After Adding note](Screenshot(148).png)
+![After Adding note](image3.jpg)
 
 #Why i choosed to make the note-app project
 i choosed the app-project because it is easy to start for making the js project. i can add my own note save it in local storage its so cool to see.
