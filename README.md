@@ -37,7 +37,7 @@ The app can do the following mention things
 3.open the index.html in any web browser
 4.start using the note app to create,save,delete notes
 
+## AI Usage
 
-
-
+I used AI as a learning assistant to understand concepts, debug issues, and improve my code. I built the project myself, wrote and tested the code, and made the implementation decisions.
 
